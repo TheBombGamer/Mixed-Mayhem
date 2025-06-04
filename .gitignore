@@ -1,5 +1,8 @@
 # Log file and usercache
 *.log
+logs/
+crash-reports/
+.mixin.out/
 usercache.json
 usernamecache.json
 
