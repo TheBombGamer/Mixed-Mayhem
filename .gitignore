@@ -1,0 +1,40 @@
+# Log file and usercache
+*.log
+usercache.json
+usernamecache.json
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.nar
+*.ear
+*.rar
+
+# Neoforge Config And Jar
+1.21.1-NeoForge.jar
+1.21.1-NeoForge.json
+
+# World Saves
+saves/
+schematics/
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Xaero
+XaeroWaypoints_BACKUP240807/
+
+# Custom Launcher Files
+hmclversion.cfg
+command_history.txt
+natives-windows-x86_64/
+
+# Misc
+*.class
