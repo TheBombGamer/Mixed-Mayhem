@@ -33,11 +33,23 @@ replay_pid*
 
 # Xaero
 XaeroWaypoints_BACKUP240807/
+xaero/
+xaeropatreon.txt
 
 # Custom Launcher Files
 hmclversion.cfg
 command_history.txt
 natives-windows-x86_64/
+log4j2.xml
+options.txt
+downloads/
 
 # Misc
 *.class
+config/jei/world/
+screenshots/
+config/spark/
+balm-client.toml
+balm-common.toml
+copycats-server.toml
+TrashSlotSaveState.json
