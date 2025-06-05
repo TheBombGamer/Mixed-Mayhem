@@ -24,6 +24,7 @@ usernamecache.json
 
 # World Saves
 saves/
+world/
 schematics/
 
 
@@ -54,3 +55,6 @@ balm-common.toml
 copycats-server.toml
 TrashSlotSaveState.json
 username-cache.json
+
+
+*.zip

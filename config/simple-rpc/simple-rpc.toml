@@ -19,13 +19,13 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Minecraft is loading"
+	description = "Mixed Mayhem Minecraft is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -44,7 +44,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -63,7 +63,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -76,13 +76,13 @@
 	#Enable/Disable the Realms Screen Event
 	enabled = true
 	#The first line of text under the app name
-	description = "%player% is looking for a Realm"
+	description = "%player% is looking for a Realm?"
 	#The second line of text under the app name
 	state = "Browsing Realms"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%,  modded"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -101,7 +101,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -120,7 +120,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -139,7 +139,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -158,7 +158,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -175,7 +175,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Mixed Mayhem %mcver%, modded to the max"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = ["mclogo"]
 	#The text that gets displayed when the small image is hovered
@@ -193,7 +193,7 @@
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = false
+	enabled = true
 
 	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
@@ -242,7 +242,7 @@
 		#The Asset ID of the image to display as the large image
 		largeImageKey = ["end"]
 		#The text that gets displayed when the large image is hovered
-		largeImageText = "In the End"
+		largeImageText = "In the End?"
 		#The Asset ID of the image to display as the small image
 		smallImageKey = ["mclogo"]
 		#The text that gets displayed when the small image is hovered
