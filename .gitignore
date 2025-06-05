@@ -53,3 +53,4 @@ balm-client.toml
 balm-common.toml
 copycats-server.toml
 TrashSlotSaveState.json
+username-cache.json
