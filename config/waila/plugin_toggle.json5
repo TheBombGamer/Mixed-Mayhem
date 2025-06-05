@@ -1,11 +1,11 @@
 {
-  "ae2:wthit": true,
-  "waystones:plugin": true,
   "balm:wthit": true,
-  "biomeswevegone:plugin": true,
   "waila:core": true,
   "waila:vanilla": true,
   "waila:harvest": true,
   "waila:extra": true,
-  "waila:neo": true
+  "waila:neo": true,
+  "ae2:wthit": true,
+  "waystones:plugin": true,
+  "biomeswevegone:plugin": true
 }

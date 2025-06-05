@@ -1,0 +1,588 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "datapacks",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\dynamiclights-v1.8.6-mc1.17-1.21.5-datapack.zip",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\guns1-21-(0,1)v10.3-dp.zip",
+        "isSelected": true
+      },
+      {
+        "path": "datapacks\\spawnanimations-v1.10.1-mc1.17-1.21.5-datapack.zip",
+        "isSelected": true
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\addonslib-neoforge-1.21.1-1.6.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AE2-Things-1.4.2-beta.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2ct-1.21.1-1.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2importexportcard-1.21-1.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ae2jeiintegration-1.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AE2MEGAThings-1.21.1-2.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AI-Improvements-1.21-0.5.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appliedenergistics2-19.2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\athena-neoforge-1.21-4.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\badpackets-neo-0.8.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\balm-neoforge-1.21.1-21.0.46.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bcc-21.1.3+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bellsandwhistles-0.4.7-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\betterfpsdist-1.21-6.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BiomesOPlenty-neoforge-1.21.1-21.1.0.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\carryon-neoforge-1.21.1-2.2.2.11.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\chat_heads-0.13.18-neoforge-1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\chipped-neoforge-1.21.1-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\choccos_mobs-0.1.3-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cloth-config-15.0.140-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-neoforge-1.21.1-19.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\copycats-3.0.1+mc.1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Corgilib-NeoForge-1.21.1-5.0.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\coroutil-neoforge-1.21.0-1.3.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\corpse-neoforge-1.21.1-1.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CraftTweaker-neoforge-1.21.1-21.0.27.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CraterLib-NeoForge-1.21-2.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-1.21.1-6.0.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-dragons-plus-1.5.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createaddition-1.4.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_chocolate_fountain-1.21.1-1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_connected-1.1.3-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_power_loader-2.0.3-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cristellib-neoforge-1.2.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cupboard-1.21-2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\curios-neoforge-9.5.1+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Design-n-Decor-1.21.1-2.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FarmersDelight-1.21.1-1.2.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fast-ip-ping-v1.0.5-mc1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fastasyncworldsave-1.21-2.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fastleafdecay-35.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FastWorkbench-1.21-9.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ferritecore-7.0.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\freecam-neoforge-1.3.0+mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-library-neoforge-2101.1.13.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-quests-neoforge-2101.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ftb-teams-neoforge-2101.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\geckolib-neoforge-1.21.1-4.7.5.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\gpumemleakfix-1.21-1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\guideme-21.1.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\iris-neoforge-1.8.8+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\irisblockcompat-1.21.1-1.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.21.1-neoforge-19.21.0.247.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kotlinforforge-5.8.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kubejs-neoforge-2101.7.1-build.181.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\lootr-neoforge-1.21-1.10.35.91.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-fences-1.2.0-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-lights-1.1.2-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-paintings-1.0.5-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-windows-2.3.0-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwbiomesoplenty-neoforge-1.21.1-1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwbyg-neoforge-1.21.1-1.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwfencesbop-neoforged-1.21-1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwfurnituresbop-neoforged-1.21.1-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\megacells-4.8.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\modernfix-neoforge-5.23.1+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\moonlight-1.21-2.18.18-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mvs-4.3.0-1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\NaturesCompass-1.21.1-3.0.3-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Biomes-Weve-Gone-NeoForge-2.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ok_zoomer-neo-10.0.0-beta.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\opacpvp-neoforge-1.0.0-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\open-parties-and-claims-neoforge-1.21.1-0.24.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Paxi-1.21.1-NeoForge-5.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Placebo-1.21.1-9.8.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\platform-neoforge-1.21.1-1.2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\polymorph-neoforge-1.0.10+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ponderjs-neoforge-1.21.1-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefullib-neoforge-1.21-3.0.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rhino-2101.2.7-build.74.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-neoforge-1.21.1-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\shulkerboxtooltip-neoforge-5.1.6+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\SimpleRPC-Universal-3.3.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\skinlayers3d-neoforge-1.7.5-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\smarterfarmers-1.21-2.2.2-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodium-neoforge-0.6.13+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.24.15.1250.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.50.1004.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\spark-1.10.124-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Storage Drawers-neoforge-1.21-13.8.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TaxFreeLevels-1.4.7-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\toofast-1.21.0-0.4.3.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\trashslot-neoforge-1.21.1-21.1.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\t_and_t-neoforge-fabric-1.13.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\vanillabackport-neoforge-1.21.1-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\voicechat-neoforge-1.21.1-2.5.30.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\watut-neoforge-1.21.0-1.2.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\waystones-neoforge-1.21.1-21.1.19.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\waystone_towers-1.21.1-NEOFORGE-1.0.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\wthit-neo-12.5.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\XaerosWorldMap_1.39.9_NeoForge_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Xaeros_Minimap_25.2.6_NeoForge_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\YungsApi-1.21.1-NeoForge-5.1.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Create Touch-Ups v1.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\CreateSophisticatedBackpacks.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Create_Style_Hopper_24_5_29.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Fancy Crops v1.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\FreshAnimations_v1.9.2.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\LegacyCopperContinued-1.2.zip",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\waystones_1.21.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\BSLClassic_v10.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\BSL_v10.0.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\ComplementaryReimagined_r5.5.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\ComplementaryUnbound_r5.5.1.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\Ethereal Shaders.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\Kappa_v5.3.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\MakeUp-UltraFast-9.1d.zip",
+        "isSelected": true
+      },
+      {
+        "path": "shaderpacks\\VanillaPlus_v3.3.zip",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": true
+      }
+    ],
+    "recommendedRam": 4096,
+    "enableRecommendedRam": true
+  }
+}

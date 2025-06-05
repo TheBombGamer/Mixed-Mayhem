@@ -219,7 +219,11 @@
     "book.enchantment_cycle_timing": 500,
     // Show Written Book Author and Generation
     // Default value: [true]
-    "book.written": true
+    "book.written": true,
+    // config.waila.plugin_minecraft.crop_progress
+    // This value will get merged with the value from the server
+    // Default value: [true]
+    crop_progress: true
   },
   harvest: {
     // Show Harvestability

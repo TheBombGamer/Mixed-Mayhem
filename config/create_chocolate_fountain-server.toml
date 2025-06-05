@@ -1,7 +1,7 @@
 #Set the range of Chocolate Fountain (in Blocks)
 # Default: 10
 # Range: > 0
-chocolate_fountain_range = 15
+chocolate_fountain_range = 10
 #Set the internal Tank Capacity of the Chocolate Fountain (in mB)
 # Default: 1000
 # Range: > 0
