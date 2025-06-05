@@ -19,7 +19,7 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Mixed Mayhem Minecraft is loading"
+	description = "Mixed Mayhem is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
