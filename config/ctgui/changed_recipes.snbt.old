@@ -1,0 +1,832 @@
+{
+    data: [],
+    palette: [],
+    changes: [
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/andesite_alloy_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "create:andesite_alloy"
+                    },
+                    {
+                        item: "minecraft:stripped_birch_log"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "create:andesite_casing"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/bogie_steps/andesite_bogie_steps_0",
+            originalId: "bellsandwhistles:bogie_steps/andesite_bogie_steps",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "a a",
+                    "a a",
+                    "aaa"
+                ],
+                result: {
+                    count: 6,
+                    id: "bellsandwhistles:andesite_bogie_steps"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "a a",
+                    "a a",
+                    "aaa"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:andesite_bogie_steps"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/create/crafting/kinetics/item_vault_0",
+            originalId: "create:crafting/kinetics/item_vault",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        tag: "c:barrels/wooden"
+                    },
+                    i: {
+                        tag: "c:plates/iron"
+                    }
+                },
+                pattern: [
+                    "i  ",
+                    "b  ",
+                    "i  "
+                ],
+                result: {
+                    count: 1,
+                    id: "create:item_vault"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        tag: "c:barrels/wooden"
+                    },
+                    i: {
+                        tag: "c:plates/iron"
+                    }
+                },
+                pattern: [
+                    "i  ",
+                    "b  ",
+                    "i  "
+                ],
+                result: {
+                    count: 2,
+                    id: "create:item_vault"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/rose_quartz_chunk_1",
+            recipe: {
+                category: "misc",
+                key: {
+                    r: {
+                        item: "biomesoplenty:rose_quartz_block"
+                    }
+                },
+                pattern: [
+                    "r  ",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 6,
+                    id: "biomesoplenty:rose_quartz_chunk"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/cardboard_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    p: {
+                        item: "minecraft:paper"
+                    }
+                },
+                pattern: [
+                    "ppp",
+                    "ppp",
+                    "ppp"
+                ],
+                result: {
+                    count: 1,
+                    id: "create:cardboard"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/rose_quartz_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "biomesoplenty:rose_quartz_chunk"
+                    },
+                    {
+                        item: "biomesoplenty:rose_quartz_chunk"
+                    },
+                    {
+                        item: "biomesoplenty:rose_quartz_chunk"
+                    },
+                    {
+                        item: "biomesoplenty:rose_quartz_chunk"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "create:rose_quartz"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/grab_rails/copper_grab_rails_0",
+            originalId: "bellsandwhistles:grab_rails/copper_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:nuggets/copper"
+                    },
+                    r: {
+                        tag: "c:ingots/copper"
+                    }
+                },
+                pattern: [
+                    "c c",
+                    "r r",
+                    "c c"
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:copper_grab_rails"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:nuggets/copper"
+                    },
+                    e: {
+                        tag: "c:ingots/copper"
+                    }
+                },
+                pattern: [
+                    "c c",
+                    "e e",
+                    "c c"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:copper_grab_rails"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/grab_rails/brass_grab_rails_0",
+            originalId: "bellsandwhistles:grab_rails/brass_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        tag: "c:ingots/brass"
+                    },
+                    b: {
+                        tag: "c:nuggets/brass"
+                    }
+                },
+                pattern: [
+                    "b b",
+                    "a a",
+                    "b b"
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:brass_grab_rails"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    b: {
+                        tag: "c:nuggets/brass"
+                    },
+                    l: {
+                        tag: "c:ingots/brass"
+                    }
+                },
+                pattern: [
+                    "b b",
+                    "l l",
+                    "b b"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:brass_grab_rails"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/grab_rails/andesite_grab_rails_0",
+            originalId: "bellsandwhistles:grab_rails/andesite_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "a a",
+                    "a a",
+                    "a a"
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:andesite_grab_rails"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "a a",
+                    "a a",
+                    "a a"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:andesite_grab_rails"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/bogie_steps/brass_bogie_steps_0",
+            originalId: "bellsandwhistles:bogie_steps/brass_bogie_steps",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    b: {
+                        tag: "c:nuggets/brass"
+                    },
+                    n: {
+                        tag: "c:ingots/brass"
+                    }
+                },
+                pattern: [
+                    "b b",
+                    "n n",
+                    "bbb"
+                ],
+                result: {
+                    count: 6,
+                    id: "bellsandwhistles:brass_bogie_steps"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    b: {
+                        tag: "c:nuggets/brass"
+                    },
+                    i: {
+                        tag: "c:ingots/brass"
+                    }
+                },
+                pattern: [
+                    "b b",
+                    "i i",
+                    "bbb"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:brass_bogie_steps"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/bogie_steps/copper_bogie_steps_0",
+            originalId: "bellsandwhistles:bogie_steps/copper_bogie_steps",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:nuggets/copper"
+                    },
+                    g: {
+                        tag: "c:ingots/copper"
+                    }
+                },
+                pattern: [
+                    "c c",
+                    "g g",
+                    "ccc"
+                ],
+                result: {
+                    count: 6,
+                    id: "bellsandwhistles:copper_bogie_steps"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:nuggets/copper"
+                    },
+                    x: {
+                        tag: "c:ingots/copper"
+                    }
+                },
+                pattern: [
+                    "c c",
+                    "x x",
+                    "ccc"
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:copper_bogie_steps"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/door_steps/andesite_grab_rails_0",
+            originalId: "bellsandwhistles:door_steps/andesite_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "aaa",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:andesite_door_step"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    a: {
+                        item: "create:andesite_alloy"
+                    }
+                },
+                pattern: [
+                    "aaa",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:andesite_door_step"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/door_steps/brass_grab_rails_0",
+            originalId: "bellsandwhistles:door_steps/brass_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    b: {
+                        tag: "c:ingots/brass"
+                    },
+                    h: {
+                        tag: "c:nuggets/brass"
+                    }
+                },
+                pattern: [
+                    "bhb",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:brass_door_step"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    b: {
+                        tag: "c:ingots/brass"
+                    },
+                    y: {
+                        tag: "c:nuggets/brass"
+                    }
+                },
+                pattern: [
+                    "byb",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:brass_door_step"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/bellsandwhistles/door_steps/copper_grab_rails_0",
+            originalId: "bellsandwhistles:door_steps/copper_grab_rails",
+            originalRecipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:ingots/copper"
+                    },
+                    e: {
+                        tag: "c:nuggets/copper"
+                    }
+                },
+                pattern: [
+                    "cec",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 8,
+                    id: "bellsandwhistles:copper_door_step"
+                }
+            },
+            recipe: {
+                category: "misc",
+                group: "misc",
+                key: {
+                    c: {
+                        tag: "c:ingots/copper"
+                    },
+                    d: {
+                        tag: "c:nuggets/copper"
+                    }
+                },
+                pattern: [
+                    "cdc",
+                    "   ",
+                    "   "
+                ],
+                result: {
+                    count: 9,
+                    id: "bellsandwhistles:copper_door_step"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/create/crafting/materials/andesite_alloy_0",
+            originalId: "create:crafting/materials/andesite_alloy",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "minecraft:andesite"
+                    },
+                    i: {
+                        tag: "c:nuggets/iron"
+                    }
+                },
+                pattern: [
+                    "ia ",
+                    "ai ",
+                    "   "
+                ],
+                result: {
+                    count: 1,
+                    id: "create:andesite_alloy"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "minecraft:andesite"
+                    },
+                    i: {
+                        tag: "c:nuggets/iron"
+                    }
+                },
+                pattern: [
+                    "ia ",
+                    "ai ",
+                    "   "
+                ],
+                result: {
+                    count: 2,
+                    id: "create:andesite_alloy"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/create/crafting/materials/andesite_alloy_from_zinc_0",
+            originalId: "create:crafting/materials/andesite_alloy_from_zinc",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "minecraft:andesite"
+                    },
+                    z: {
+                        tag: "c:nuggets/zinc"
+                    }
+                },
+                pattern: [
+                    "za ",
+                    "az ",
+                    "   "
+                ],
+                result: {
+                    count: 1,
+                    id: "create:andesite_alloy"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "minecraft:andesite"
+                    },
+                    z: {
+                        tag: "c:nuggets/zinc"
+                    }
+                },
+                pattern: [
+                    "za ",
+                    "az ",
+                    "   "
+                ],
+                result: {
+                    count: 2,
+                    id: "create:andesite_alloy"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/spider_egg_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    c: {
+                        item: "minecraft:cobweb"
+                    },
+                    s: {
+                        item: "minecraft:spider_eye"
+                    }
+                },
+                pattern: [
+                    "ccc",
+                    "csc",
+                    "ccc"
+                ],
+                result: {
+                    count: 1,
+                    id: "biomesoplenty:spider_egg"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/cobweb_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    s: {
+                        item: "minecraft:string"
+                    }
+                },
+                pattern: [
+                    "ss ",
+                    "s  ",
+                    "   "
+                ],
+                result: {
+                    count: 2,
+                    id: "minecraft:cobweb"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            originalId: "minecraft:crafter",
+            recipe: {
+                category: "redstone",
+                key: {
+                    c: {
+                        item: "minecraft:crafting_table"
+                    },
+                    d: {
+                        item: "minecraft:dropper"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    r: {
+                        item: "minecraft:redstone"
+                    }
+                },
+                pattern: [
+                    "iii",
+                    "ici",
+                    "rdr"
+                ],
+                result: {
+                    count: 1,
+                    id: "minecraft:crafter"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/meteorite_compass_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "minecraft:compass"
+                    },
+                    {
+                        item: "minecraft:raw_iron"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "ae2:meteorite_compass"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/shear_pin_0",
+            recipe: {
+                category: "misc",
+                ingredients: [
+                    {
+                        item: "create:shaft"
+                    }
+                ],
+                result: {
+                    count: 2,
+                    id: "create_connected:shear_pin"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "ADDED"
+        },
+        {
+            exported: 1b,
+            id: "ctgui/new/crafting/elytra_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    n: {
+                        item: "minecraft:netherite_ingot"
+                    },
+                    p: {
+                        item: "minecraft:phantom_membrane"
+                    }
+                },
+                pattern: [
+                    "pnp",
+                    "ppp",
+                    "p p"
+                ],
+                result: {
+                    count: 1,
+                    id: "minecraft:elytra"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:rotation_speed_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/kinetics/fluid_pipe_vertical","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"createaddition:digital_adapter"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

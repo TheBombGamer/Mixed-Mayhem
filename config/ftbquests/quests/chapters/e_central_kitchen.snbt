@@ -1,0 +1,76 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "e_central_kitchen"
+	group: "2F8B068425AF05D4"
+	icon: {
+		id: "chipped:alchemy_book"
+	}
+	id: "28E11357A94C6392"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1C901D6957027EB8"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				id: "0B72C8C1380FF53A"
+				optional_task: true
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C901D6957027EB8"]
+			id: "5192A23748C3AC21"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78546BA089E69640"
+				table_id: 5001068052608706388L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "27CEF993C81C6952"
+					item: { count: 1, id: "farmersdelight:cutting_board" }
+					type: "item"
+				}
+				{
+					id: "0D91F27FB483BCC5"
+					item: { count: 1, id: "create:belt_connector" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C901D6957027EB8"]
+			id: "75BA8D3D6C0B9D1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12DD2E67197CF575"
+				table_id: 5001068052608706388L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "0B75E804CE79EE55"
+					item: { count: 1, id: "farmersdelight:basket" }
+					type: "item"
+				}
+				{
+					id: "29FEC9AE0D9669FB"
+					item: { count: 1, id: "create:mechanical_arm" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+	]
+}

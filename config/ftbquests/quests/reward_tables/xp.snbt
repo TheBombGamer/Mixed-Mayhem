@@ -1,0 +1,30 @@
+{
+	id: "45675CE5A54BE754"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 12
+			id: "5BFB99339C0161E1"
+			item: {
+				count: 1
+				id: "create:experience_nugget"
+			}
+		}
+		{
+			id: "781365AD897346C2"
+			type: "xp"
+			xp: 100
+		}
+		{
+			id: "5B1F5FCD5FF81C67"
+			type: "xp"
+			xp: 500
+		}
+		{
+			id: "1FEC6A33B2F15151"
+			type: "xp_levels"
+			xp_levels: 5
+		}
+	]
+}

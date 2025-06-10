@@ -1,60 +1,28 @@
-# Log file and usercache
-*.log
+xaero/
+.curseclient
+schematics/
 logs/
-crash-reports/
+downloads/
+.replay_cache/
 .mixin.out/
+XaeroWaypoints_BACKUP*/
+1.21.1-NeoForge.jar
+command_history.txt
+
+
+worlds/
+saves/
+replay_recordings/
+debug/
+screenshots/
+
+
+TrashSlotSaveState.json
+
 usercache.json
 usernamecache.json
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.war
-*.nar
-*.ear
-*.rar
-
-# Neoforge Config And Jar
-1.21.1-NeoForge.jar
 1.21.1-NeoForge.json
 
-# World Saves
-saves/
-world/
-schematics/
+crash-reports/
 
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
-
-# Xaero
-XaeroWaypoints_BACKUP240807/
-xaero/
-xaeropatreon.txt
-
-# Custom Launcher Files
-hmclversion.cfg
-command_history.txt
-natives-windows-x86_64/
-log4j2.xml
-options.txt
-downloads/
-
-# Misc
-*.class
-config/jei/world/
-screenshots/
-config/spark/
-balm-client.toml
-balm-common.toml
-copycats-server.toml
-TrashSlotSaveState.json
-username-cache.json
-
-
-*.zip
+*.log

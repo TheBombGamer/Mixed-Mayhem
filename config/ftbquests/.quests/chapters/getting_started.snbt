@@ -1,0 +1,52 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "72A68AAC48FB42A5"
+	id: "7CFC3D3FAB18495C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5355B0B134C4881F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "785989DC328F7479"
+					table_id: 7469922516156261479L
+					type: "random"
+				}
+				{
+					auto: "enabled"
+					disable_reward_screen_blur: true
+					id: "180AAB9D67D92FE4"
+					ignore_reward_blocking: true
+					item: {
+						count: 1
+						id: "ftbquests:book"
+					}
+					only_one: true
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6AA40D67AE6DBD08"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "1176FCBA29C1F367"
+			tasks: [{
+				id: "609FAC8569DFDD11"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+	]
+}

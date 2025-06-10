@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"recipe":"vanillabackport:white_harness","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/deployer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/materials/electron_tube","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/brass_hand","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"crafttweaker:ctgui/new/crafting/andesite_alloy_0","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:spawner"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
