@@ -1,0 +1,119 @@
+{
+	id: "48DA81CB82402CDB"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 8
+			id: "7524553E32AB7608"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+		}
+		{
+			count: 3
+			id: "7074FFFC84DE6F42"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+		}
+		{
+			count: 4
+			id: "60BF8A41A047C4F0"
+			item: {
+				count: 1
+				id: "create:gearbox"
+			}
+		}
+		{
+			count: 4
+			id: "7209BFD047F69BEA"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+		}
+		{
+			count: 8
+			id: "0FCA99A27EF5E70E"
+			item: {
+				count: 1
+				id: "create:iron_sheet"
+			}
+		}
+		{
+			count: 2
+			id: "0FC434BF72DE9066"
+			item: {
+				count: 1
+				id: "create:water_wheel"
+			}
+		}
+		{
+			count: 4
+			id: "54D62BCA1083331D"
+			item: {
+				count: 1
+				id: "create:fluid_pipe"
+			}
+		}
+		{
+			count: 12
+			id: "6AEC34C73EA655EE"
+			item: {
+				count: 1
+				id: "minecraft:andesite"
+			}
+		}
+		{
+			count: 6
+			id: "581CBF966E270C8F"
+			item: {
+				count: 1
+				id: "createaddition:copper_rod"
+			}
+		}
+		{
+			count: 6
+			id: "5F9BBBC9F2FB7372"
+			item: {
+				count: 1
+				id: "createaddition:iron_rod"
+			}
+		}
+		{
+			count: 6
+			id: "744870B649342DFB"
+			item: {
+				count: 1
+				id: "createaddition:brass_rod"
+			}
+		}
+		{
+			count: 8
+			id: "759E44265687F259"
+			item: {
+				count: 1
+				id: "create:belt_connector"
+			}
+		}
+		{
+			count: 6
+			id: "0D17941E527FF2F2"
+			item: {
+				count: 1
+				id: "create:andesite_casing"
+			}
+		}
+		{
+			count: 6
+			id: "7E716C145CEBB91A"
+			item: {
+				count: 1
+				id: "create:copper_casing"
+			}
+		}
+	]
+}

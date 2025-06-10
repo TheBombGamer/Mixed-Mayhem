@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:oak_pressure_plate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:deepslate_brick_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

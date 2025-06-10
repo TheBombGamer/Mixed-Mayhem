@@ -1,0 +1,134 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "summer_drop"
+	group: "0CB0713E7DF9909D"
+	id: "03B162E5E1C50A7F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "31BD7A45FFCBE093"
+			min_width: 3
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "68E63144AAC66A98"
+				item: { count: 1, id: "vanillabackport:dried_ghast" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31BD7A45FFCBE093"]
+			icon: {
+				id: "vanillabackport:light_gray_harness"
+			}
+			id: "1E70C4CBB355D10C"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [
+				{
+					id: "3FD37C625EBC5A5A"
+					item: { count: 1, id: "vanillabackport:white_harness" }
+					type: "item"
+				}
+				{
+					id: "6250A71EC8838319"
+					item: { count: 1, id: "vanillabackport:green_harness" }
+					type: "item"
+				}
+				{
+					id: "06286BE564AE1093"
+					item: { count: 1, id: "vanillabackport:brown_harness" }
+					type: "item"
+				}
+				{
+					id: "6B7ADAAA7B89672A"
+					item: { count: 1, id: "vanillabackport:purple_harness" }
+					type: "item"
+				}
+				{
+					id: "2AE188018D663A2D"
+					item: { count: 1, id: "vanillabackport:magenta_harness" }
+					type: "item"
+				}
+				{
+					id: "71BED2FFB462AB7B"
+					item: { count: 1, id: "vanillabackport:light_blue_harness" }
+					type: "item"
+				}
+				{
+					id: "423ED6F003E8CA37"
+					item: { count: 1, id: "vanillabackport:yellow_harness" }
+					type: "item"
+				}
+				{
+					id: "11361BA052ABD80E"
+					item: { count: 1, id: "vanillabackport:cyan_harness" }
+					type: "item"
+				}
+				{
+					id: "496CF0EBD21854BF"
+					item: { count: 1, id: "vanillabackport:light_gray_harness" }
+					type: "item"
+				}
+				{
+					id: "0160D1252DBFDAE5"
+					item: { count: 1, id: "vanillabackport:pink_harness" }
+					type: "item"
+				}
+				{
+					id: "3C2EB8A0983F4E17"
+					item: { count: 1, id: "vanillabackport:black_harness" }
+					type: "item"
+				}
+				{
+					id: "57CF9CA448ECC2C6"
+					item: { count: 1, id: "vanillabackport:red_harness" }
+					type: "item"
+				}
+				{
+					id: "7265360CC5305B4B"
+					item: { count: 1, id: "vanillabackport:lime_harness" }
+					type: "item"
+				}
+				{
+					id: "3237CEE89F128D14"
+					item: { count: 1, id: "vanillabackport:gray_harness" }
+					type: "item"
+				}
+				{
+					id: "2784ED0C4E386D24"
+					item: { count: 1, id: "vanillabackport:blue_harness" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "04599227346F4625"
+			invisible: true
+			rewards: [{
+				id: "25F0B4C6B09E050C"
+				item: {
+					count: 1
+					id: "minecraft:ghast_tear"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			tasks: [{
+				entity: "vanillabackport:happy_ghast"
+				id: "18945322EDA8771C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+}

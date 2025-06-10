@@ -1,0 +1,142 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "biomes"
+	group: "03FBB122F31F5A56"
+	id: "29FC9260B9C8CC2E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "biomesoplenty:wilted_lily"
+			}
+			id: "3B5E75D340CC002A"
+			rewards: [{
+				id: "325CBC295BB08D16"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				biome: "biomesoplenty:wasteland"
+				icon: {
+					id: "minecraft:dead_bush"
+				}
+				id: "4F811BBC95766FD6"
+				type: "biome"
+			}]
+			x: -10.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3B5E75D340CC002A"]
+			id: "5D8A4601784EAD81"
+			rewards: [{
+				id: "101F60F01DACF577"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "542988B205EFB07C"
+				item: { count: 1, id: "biomesoplenty:dried_salt" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3B5E75D340CC002A"]
+			id: "6E7043C88AA3235A"
+			rewards: [{
+				id: "6D7496A4CC9F4ED9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F6017074701BB2D"
+				item: { count: 1, id: "biomesoplenty:wilted_lily" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0FD7F5D8BE626AB5"]
+			id: "5916BAC71B05F370"
+			tasks: [{
+				icon: {
+					id: "minecraft:bone_block"
+				}
+				id: "6F51115C6823FC69"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:bone_block"
+				type: "observation"
+			}]
+			x: -9.0d
+			y: -5.0d
+		}
+		{
+			id: "0FD7F5D8BE626AB5"
+			tasks: [{
+				biome: "biomesoplenty:dryland"
+				icon: {
+					id: "minecraft:dead_bush"
+				}
+				id: "617F49FA7A3551EF"
+				type: "biome"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			id: "4BA8FDA16F55FC0F"
+			tasks: [{
+				biome: "biomesoplenty:bayou"
+				icon: {
+					id: "chipped:thin_mangrove_roots"
+				}
+				id: "3E24CD0F50AB8DEA"
+				type: "biome"
+			}]
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			id: "2E0E274038F01998"
+			rewards: [{
+				id: "5B29C0E2E1AFE442"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				biome: "biomeswevegone:red_rock_valley"
+				icon: {
+					id: "biomeswevegone:red_rock"
+				}
+				id: "25E070AC6CC5EFA6"
+				type: "biome"
+			}]
+			x: -9.0d
+			y: -6.5d
+		}
+		{
+			id: "753015C8E2EBB9FE"
+			rewards: [{
+				id: "10D65F3C3AFEC9E3"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				biome: "biomeswevegone:orchard"
+				icon: {
+					id: "minecraft:apple"
+				}
+				id: "2543A86609D60ADF"
+				type: "biome"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+	]
+}

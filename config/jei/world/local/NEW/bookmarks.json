@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_oak_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:depot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

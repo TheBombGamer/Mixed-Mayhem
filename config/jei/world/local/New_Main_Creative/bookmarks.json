@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"sophisticatedbackpacks:inception_upgrade","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"chipped:distorted_dark_oak_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

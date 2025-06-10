@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "legendary_quests"
+	group: "72A68AAC48FB42A5"
+	id: "4277C9F30DE0CA04"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		hide_dependency_lines: false
+		id: "5333015EB5347411"
+		ignore_reward_blocking: true
+		invisible: true
+		tasks: [{
+			id: "5706B09E88EF117A"
+			stat: "minecraft:walk_one_cm"
+			type: "stat"
+			value: 10000
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

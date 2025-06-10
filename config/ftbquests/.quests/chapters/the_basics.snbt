@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_basics"
+	group: "72A68AAC48FB42A5"
+	id: "352775821BECFC44"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

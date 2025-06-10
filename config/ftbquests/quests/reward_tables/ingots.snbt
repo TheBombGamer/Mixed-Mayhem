@@ -1,0 +1,39 @@
+{
+	id: "4C51FE85086A8C36"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 4
+			id: "109BC2986A462559"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "68BE4987B473566F"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 10
+			id: "12D888ABC73024A1"
+			item: {
+				count: 1
+				id: "create:zinc_ingot"
+			}
+		}
+		{
+			count: 8
+			id: "7C3A9260987ACDB9"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+		}
+	]
+}

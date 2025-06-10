@@ -1,0 +1,43 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basics"
+	group: "0587F358C0E626C9"
+	id: "7D0376BD08D63457"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "616988B6ED167E81"
+			tasks: [{
+				icon: {
+					id: "ae2:sky_stone_block"
+				}
+				id: "6A197DC2DCAA54E7"
+				observe_type: 0
+				timer: 0L
+				to_observe: "ae2:sky_stone_block"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6A197DC2DCAA54E7"]
+			hide_dependency_lines: false
+			id: "4D2630A963E7CDC3"
+			rewards: [{
+				id: "6D8C12FCCFB4AD0A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "251114D31585BE67"
+				item: { count: 1, id: "ae2:mysterious_cube" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+	]
+}

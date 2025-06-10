@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage"
+	group: "3B8AF43E1258A852"
+	id: "204DBC331473AA13"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6476674A8E9CDE1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4112BD9B8829E075"
+				table_id: 5001068052608706388L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3EF2D3088B1A779B"
+				item: { count: 1, id: "create_connected:item_silo" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			id: "5F09210C9CCE7093"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B6612895642B6D6"
+				table_id: 5249651026717322459L
+				type: "random"
+			}]
+			tasks: [{
+				id: "042EB31EE40ED451"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			id: "2C9D0B788766F88C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E2FB11C78979278"
+				table_id: 5001068052608706388L
+				type: "random"
+			}]
+			tasks: [{
+				id: "19783CF283191B1A"
+				item: { count: 1, id: "ae2:cell_component_1k" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2C9D0B788766F88C"]
+			id: "675DB6EBC8D565ED"
+			tasks: [{
+				id: "42151237486A69EF"
+				item: { count: 1, id: "ae2:cell_component_4k" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["675DB6EBC8D565ED"]
+			id: "35DEE765DDF3BCE0"
+			tasks: [{
+				id: "2615275488E11D75"
+				item: { count: 1, id: "ae2:cell_component_16k" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["35DEE765DDF3BCE0"]
+			id: "53A5866CEE56CEB3"
+			tasks: [{
+				id: "0000DB50CA839C6D"
+				item: { count: 1, id: "ae2:cell_component_64k" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["53A5866CEE56CEB3"]
+			id: "2E1C9BD3A59FEE01"
+			tasks: [{
+				id: "3B62E0DFCBB4C9DD"
+				item: { count: 1, id: "ae2:cell_component_256k" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+	]
+}

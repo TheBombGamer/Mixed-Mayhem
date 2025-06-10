@@ -1,0 +1,39 @@
+{
+	id: "67AA7EF37B2FA467"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "5AC32ED6ECADB7BD", item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 4 } } }, count: 1, id: "minecraft:iron_chestplate" } }
+		{ id: "2645B3E7F8E6A3F9", item: { components: { "minecraft:enchantments": { levels: { "minecraft:protection": 3, "minecraft:unbreaking": 3 } } }, count: 1, id: "minecraft:iron_leggings" } }
+		{ id: "03C342E80FDC5145", item: { components: { "minecraft:enchantments": { levels: { "minecraft:feather_falling": 4, "minecraft:frost_walker": 2, "minecraft:unbreaking": 3 } } }, count: 1, id: "minecraft:diamond_boots" } }
+		{ id: "55A91FEB4656C403", item: { count: 1, id: "minecraft:iron_helmet" } }
+		{ id: "0012744AC1E8408A", item: { components: { "minecraft:enchantments": { levels: { "minecraft:efficiency": 4, "minecraft:mending": 1, "minecraft:unbreaking": 3 } } }, count: 1, id: "minecraft:iron_shovel" } }
+		{
+			count: 32
+			id: "72579E554E1E691D"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{
+			count: 12
+			id: "3EAEC6FD5ADF1048"
+			item: {
+				count: 1
+				id: "minecraft:golden_carrot"
+			}
+		}
+		{
+			count: 9
+			id: "6801C804E061B203"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{ id: "26FAB6EEA02C02DF", item: { count: 1, id: "artifacts:night_vision_goggles" } }
+		{ id: "7FF96170A2340B5E", item: { components: { "minecraft:enchantments": { levels: { "minecraft:fire_protection": 2, "minecraft:unbreaking": 3 } } }, count: 1, id: "minecraft:diamond_leggings" } }
+		{ id: "60EA9CE482C0DF6A", item: { components: { "minecraft:enchantments": { levels: { "minecraft:mending": 1, "minecraft:protection": 4 } } }, count: 1, id: "minecraft:diamond_boots" } }
+	]
+}
