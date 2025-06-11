@@ -203,13 +203,13 @@
                     c: {
                         tag: "c:nuggets/copper"
                     },
-                    r: {
+                    u: {
                         tag: "c:ingots/copper"
                     }
                 },
                 pattern: [
                     "c c",
-                    "r r",
+                    "u u",
                     "c c"
                 ],
                 result: {
@@ -224,13 +224,13 @@
                     c: {
                         tag: "c:nuggets/copper"
                     },
-                    e: {
+                    g: {
                         tag: "c:ingots/copper"
                     }
                 },
                 pattern: [
                     "c c",
-                    "e e",
+                    "g g",
                     "c c"
                 ],
                 result: {
@@ -250,16 +250,16 @@
                 category: "misc",
                 group: "misc",
                 key: {
-                    a: {
-                        tag: "c:ingots/brass"
-                    },
                     b: {
                         tag: "c:nuggets/brass"
+                    },
+                    s: {
+                        tag: "c:ingots/brass"
                     }
                 },
                 pattern: [
                     "b b",
-                    "a a",
+                    "s s",
                     "b b"
                 ],
                 result: {
@@ -274,13 +274,13 @@
                     b: {
                         tag: "c:nuggets/brass"
                     },
-                    l: {
+                    i: {
                         tag: "c:ingots/brass"
                     }
                 },
                 pattern: [
                     "b b",
-                    "l l",
+                    "i i",
                     "b b"
                 ],
                 result: {
@@ -347,13 +347,13 @@
                     b: {
                         tag: "c:nuggets/brass"
                     },
-                    n: {
+                    g: {
                         tag: "c:ingots/brass"
                     }
                 },
                 pattern: [
                     "b b",
-                    "n n",
+                    "g g",
                     "bbb"
                 ],
                 result: {
@@ -368,13 +368,13 @@
                     b: {
                         tag: "c:nuggets/brass"
                     },
-                    i: {
+                    r: {
                         tag: "c:ingots/brass"
                     }
                 },
                 pattern: [
                     "b b",
-                    "i i",
+                    "r r",
                     "bbb"
                 ],
                 result: {
@@ -397,13 +397,13 @@
                     c: {
                         tag: "c:nuggets/copper"
                     },
-                    g: {
+                    x: {
                         tag: "c:ingots/copper"
                     }
                 },
                 pattern: [
                     "c c",
-                    "g g",
+                    "x x",
                     "ccc"
                 ],
                 result: {
@@ -418,13 +418,13 @@
                     c: {
                         tag: "c:nuggets/copper"
                     },
-                    x: {
+                    i: {
                         tag: "c:ingots/copper"
                     }
                 },
                 pattern: [
                     "c c",
-                    "x x",
+                    "i i",
                     "ccc"
                 ],
                 result: {
@@ -491,12 +491,12 @@
                     b: {
                         tag: "c:ingots/brass"
                     },
-                    h: {
+                    o: {
                         tag: "c:nuggets/brass"
                     }
                 },
                 pattern: [
-                    "bhb",
+                    "bob",
                     "   ",
                     "   "
                 ],
@@ -541,12 +541,12 @@
                     c: {
                         tag: "c:ingots/copper"
                     },
-                    e: {
+                    t: {
                         tag: "c:nuggets/copper"
                     }
                 },
                 pattern: [
-                    "cec",
+                    "ctc",
                     "   ",
                     "   "
                 ],
@@ -562,12 +562,12 @@
                     c: {
                         tag: "c:ingots/copper"
                     },
-                    d: {
+                    u: {
                         tag: "c:nuggets/copper"
                     }
                 },
                 pattern: [
-                    "cdc",
+                    "cuc",
                     "   ",
                     "   "
                 ],
@@ -822,6 +822,33 @@
                 result: {
                     count: 1,
                     id: "minecraft:elytra"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "ADDED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/crafting/crafting_stick_0",
+            recipe: {
+                category: "misc",
+                key: {
+                    c: {
+                        item: "minecraft:crafting_table"
+                    },
+                    s: {
+                        item: "minecraft:stick"
+                    }
+                },
+                pattern: [
+                    "  c",
+                    " s ",
+                    "   "
+                ],
+                result: {
+                    count: 1,
+                    id: "kubejs:crafting_stick"
                 }
             },
             recipeType: "minecraft:crafting",
